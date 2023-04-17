@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">  
-  ![](https://komarev.com/ghpvc/?username=FabioMessias98&color=blueviolet&label=Visualizações)
-  ![](https://komarev.com/ghpvc/?username=FabioMessias98&color=dc143c)
+  ![](https://komarev.com/ghpvc/?username=FabioMessias98)
   
   
   <a href="https://github.com/FabioMessias98">
