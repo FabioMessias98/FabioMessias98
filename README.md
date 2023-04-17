@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/FabioMessias98/FabioMessias98/blob/main/github-background.png">
+  <img src="https://github.com/FabioMessias98/FabioMessias98/blob/main/github-background-full.png">
 </div>
 
 <div align="center">        
