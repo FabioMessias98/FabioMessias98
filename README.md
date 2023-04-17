@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/fabio-de-melo-647843186/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href = "https://fabiomelodev.com.br"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=www&logoColor=white" /></a>
   
-  ![Snake animation](https://github.com/FabioMessias98/FabioMessias98/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/FabioMessias98/FabioMessias98/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 
 <div align="center">
