@@ -18,17 +18,21 @@ Here are some ideas to get you started:
   Sou Fabio Melo, desenvolvedor Front end
 </h1>
 
-<div align="center">  
-  ![](https://komarev.com/ghpvc/?username=FabioMessias98)
-      
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98"/>
-    
+<div align="center">        
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98"/>    
 </div>
-<div style="display:inline_block" align="center"><br>
+
+<div align="center">
+  <br>
+  
   <img width="70" height="60" align="center" alt="Icon HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  
   <img width="70" height="60" align="center" alt="Icon CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  
   <img width="70" height="60" align="center" alt="Icon Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  
   <img width="70" height="60" align="center" alt="Icon Tailwindcss" title="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  
   <img width="70" height="60" align="center" alt="Icon Webpack" title="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
   <img width="70" height="60" align="center" alt="Icon Javascript" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="70" height="60" align="center" alt="Icon PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
