@@ -1,29 +1,13 @@
-<!--
-**FabioMessias98/FabioMessias98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">
   Sou Fabio Melo, desenvolvedor Front end
 </h1>
 
 <div align="center">        
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98"/>    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98" />    
 </div>
 
 <div align="center">
-  <br>
+  <br />
   
   <img width="70" height="60" align="center" alt="Icon HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
@@ -45,10 +29,10 @@ Here are some ideas to get you started:
   ##
  
 <div align="center"> 
-  <a href="https://instagram.com/fabiomelodev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
-  <a href="https://www.facebook.com/fabio.messias.908132/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%3b59985F?style=for-the-badge&logo=facebook&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/fabio-de-melo-647843186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "https://fabiomelodev.com.br" target="_blank"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=www&logoColor=white"></a>
+  <a href="https://instagram.com/fabiomelodev"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+  <a href="https://www.facebook.com/fabio.messias.908132/"><img src="https://img.shields.io/badge/-Facebook-%3b59985F?style=for-the-badge&logo=facebook&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/fabio-de-melo-647843186/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href = "https://fabiomelodev.com.br"><img src="https://img.shields.io/badge/-website-%23333?style=for-the-badge&logo=www&logoColor=white" /></a>
   
   ![Snake animation](https://github.com/FabioMessias98/FabioMessias98/blob/output/github-contribution-grid-snake.svg)
 </div>
