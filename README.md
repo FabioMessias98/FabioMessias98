@@ -34,8 +34,11 @@ Here are some ideas to get you started:
   <img width="70" height="60" align="center" alt="Icon Tailwindcss" title="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   
   <img width="70" height="60" align="center" alt="Icon Webpack" title="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  
   <img width="70" height="60" align="center" alt="Icon Javascript" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
   <img width="70" height="60" align="center" alt="Icon PHP" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />          
+  
   <img width="70" height="60" align="center" alt="Icon Wordpress" title="Wordpress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
   
