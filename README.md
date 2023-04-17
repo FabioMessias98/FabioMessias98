@@ -25,13 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
   <br>
   
-  <img 
-       width="70" 
-       height="60" 
-       align="center" 
-       alt="Icon HTML5" 
-       title="HTML5" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="70" height="60" align="center" alt="Icon HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   
   <img width="70" height="60" align="center" alt="Icon CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   
