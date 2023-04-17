@@ -39,5 +39,15 @@
 
 <div align="center">
   
+  
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriMartins)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuriMartins)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=FabioMessias98)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
