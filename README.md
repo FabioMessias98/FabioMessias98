@@ -25,10 +25,12 @@ Here are some ideas to get you started:
   
   
   <a href="https://github.com/FabioMessias98">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
 </div>
 <div style="display:inline_block" align="center"><br>
-  <img width="40" height="30" align="center" alt="Icon HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="70" height="60" align="center" alt="Icon HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="40" height="30" align="center" alt="Icon CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="30" align="center" alt="Icon Bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width="40" height="30" align="center" alt="Icon Tailwindcss" title="Tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
