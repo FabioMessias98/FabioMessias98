@@ -2,6 +2,10 @@
   Sou Fabio Melo, desenvolvedor Front end
 </h1>
 
+<div align="center">
+  <img src="https://github.com/FabioMessias98/FabioMessias98/blob/main/github-background.png">
+</div>
+
 <div align="center">        
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98" />    
 </div>
