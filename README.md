@@ -1,7 +1,3 @@
-<h1 align="center">
-  Sou Fabio Melo, desenvolvedor Front end
-</h1>
-
 <div align="center">
   <img src="https://github.com/FabioMessias98/FabioMessias98/blob/main/github-background-full.png">
 </div>
