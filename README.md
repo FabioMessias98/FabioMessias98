@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">  
   ![](https://komarev.com/ghpvc/?username=FabioMessias98)
-  
-  
-  <a href="https://github.com/FabioMessias98">
-    
+      
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98"/>
     
 </div>
