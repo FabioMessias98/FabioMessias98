@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <div align="center">  
   ![](https://komarev.com/ghpvc/?username=FabioMessias98&color=green)
   ![](https://komarev.com/ghpvc/?username=FabioMessias98&color=blueviolet&label=Visualizações) 
-  ![Generic badge](https://img.shields.io/badge/Repositórios-11-blueviolet)
   
   <a href="https://github.com/FabioMessias98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioMessias98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
