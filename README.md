@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 <div align="center">  
-  ![Generic badge](https://komarev.com/ghpvc/?username=FabioMessias98&color=blueviolet&label=Visualizações)
+  ![](https://komarev.com/ghpvc/?username=FabioMessias98&color=blueviolet&label=Visualizações)
   
   
   <a href="https://github.com/FabioMessias98">
